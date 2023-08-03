@@ -1,0 +1,258 @@
+"country";"SUM";"AVG"
+"Afghanistan";23846;476.92
+"Albania";30342;606.84
+"Algeria";214558;4291.16
+"American Samoa";2277;45.54
+"Andorra";8801;176.02
+"Angola";9627;192.54
+"Anguilla";6337;126.74
+"Antarctica";1931;38.62
+"Antigua and Barbuda";57352;1147.04
+"Argentina";782643;15652.86
+"Armenia";13526;270.52
+"Aruba";35163;703.26
+"Australia";7683731;153674.62
+"Austria";1239142;24782.84
+"Azerbaijan";10577;211.54
+"Bahamas";353606;7072.12
+"Bahrain";37152;743.04
+"Bangladesh";129167;2583.34
+"Barbados";440581;8811.62
+"Belarus";34075;681.5
+"Belgium";1897490;37949.8
+"Belize";27858;557.16
+"Benin";15337;306.74
+"Bermuda";703926;14078.52
+"Bhutan";3551;71.02
+"Bolivia";31842;636.84
+"Bonaire, Sint Eustatius and Saba";941;18.82
+"Bosnia and Herzegovina";31825;636.5
+"Botswana";12609;252.18
+"Bouvet Island";46;0.92
+"Brazil";2533103;50662.06
+"British Indian Ocean Territory";93;1.86
+"Brunei Darussalam";18174;363.48
+"Bulgaria";85406;1708.12
+"Burkina Faso";19787;395.74
+"Burundi";9042;180.84
+"Cabo Verde";989;19.78
+"Cambodia";17477;349.54
+"Cameroon";46652;933.04
+"Cayman Islands";157965;3159.3
+"Central African Republic";2796;55.92
+"Chad";3440;68.8
+"Chile";447424;8948.48
+"China";6849996;136999.92
+"Christmas Island";0;0
+"Cocos (Keeling) Islands";23;0.46
+"Colombia";600840;12016.8
+"Comoros";1792;35.84
+"Congo, Democratic Republic of the";32120;642.4
+"Congo, Republic of the";6112;122.24
+"Cook Islands";1122;22.44
+"Costa Rica";197675;3953.5
+"Croatia";118955;2379.1
+"Cuba";187537;3750.74
+"Curaçao";7000;140
+"Cyprus";51345;1026.9
+"Czechia";378115;7562.3
+"Czechoslovakia";95979;1919.58
+"Côte d'Ivoire";40152;803.04
+"Denmark";1223702;24474.04
+"Djibouti";3683;73.66
+"Dominica";22448;448.96
+"Dominican Republic";177234;3544.68
+"Ecuador";113469;2269.38
+"Egypt";335808;6716.16
+"El Salvador";70724;1414.48
+"Equatorial Guinea";939;18.78
+"Eritrea";5326;106.52
+"Estonia";42976;859.52
+"Eswatini";4155;83.1
+"Ethiopia";49446;988.92
+"Falkland Islands (Malvinas)";461;9.22
+"Faroe Islands";3345;66.9
+"Fiji";43331;866.62
+"Finland";631382;12627.64
+"France";15478598;309571.96
+"French Guiana";5986;119.72
+"French Polynesia";28510;570.2
+"French Southern Territories";9;0.18
+"Gabon";15326;306.52
+"Gambia";3466;69.32
+"Georgia";7062;141.24
+"Germany";10735398;214707.96
+"Germany, Federal Republic of";3954609;79092.18
+"Ghana";63672;1273.44
+"Gibraltar";5729;114.58
+"Greece";707648;14152.96
+"Greenland";15929;318.58
+"Grenada";45045;900.9
+"Guadeloupe";85003;1700.06
+"Guam";1888;37.76
+"Guatemala";160057;3201.14
+"Guernsey";536;10.72
+"Guinea";21347;426.94
+"Guinea-Bissau";595;11.9
+"Guyana";237228;4744.56
+"Haiti";297586;5951.72
+"Heard Island and McDonald Islands";2;0.04
+"Holy See (Vatican City State)";360;7.2
+"Honduras";42769;855.38
+"Hong Kong";4929333;98586.66
+"Hungary";452595;9051.9
+"Iceland";161703;3234.06
+"India";4238195;84763.9
+"Indonesia";466595;9331.9
+"Iran";444299;8885.98
+"Iraq";23410;468.2
+"Ireland";1441980;28839.6
+"Isle of Man";621;12.42
+"Israel";2879128;57582.56
+"Italy";4563465;91269.3
+"Jamaica";1151567;23031.34
+"Japan";15278489;305569.78
+"Jersey";734;14.68
+"Jordan";93159;1863.18
+"Kazakhstan";44291;885.82
+"Kenya";120245;2404.9
+"Kiribati";730;14.6
+"Korea, North";3692;73.84
+"Korea, South";5020226;100404.52
+"Kosovo";4041;80.82
+"Kuwait";103890;2077.8
+"Kyrgyzstan";5936;118.72
+"Laos";5170;103.4
+"Latvia";47077;941.54
+"Lebanon";309071;6181.42
+"Lesotho";2821;56.42
+"Liberia";3995;79.9
+"Libya";43463;869.26
+"Liechtenstein";10502;210.04
+"Lithuania";42000;840
+"Luxembourg";116343;2326.86
+"Macao";28293;565.86
+"Madagascar";14125;282.5
+"Malawi";7369;147.38
+"Malaysia";589693;11793.86
+"Maldives";1796;35.92
+"Mali";20423;408.46
+"Malta";80468;1609.36
+"Marshall Islands";841;16.82
+"Martinique";84224;1684.48
+"Mauritania";4731;94.62
+"Mauritius";49973;999.46
+"Mayotte";380;7.6
+"Mexico";6268645;125372.9
+"Micronesia, Federated States of";877;17.54
+"Moldova";28482;569.64
+"Monaco";33094;661.88
+"Mongolia";14938;298.76
+"Montenegro";11163;223.26
+"Montserrat";2095;41.9
+"Morocco";308500;6170
+"Mozambique";6510;130.2
+"Myanmar";9075;181.5
+"Namibia";10462;209.24
+"Nauru";536;10.72
+"Nepal";33810;676.2
+"Netherlands";4883103;97662.06
+"Netherlands Antilles";1760;35.2
+"Neutral Zone";79;1.58
+"New Caledonia";15383;307.66
+"New Zealand";1676728;33534.56
+"Nicaragua";27376;547.52
+"Niger";5592;111.84
+"Nigeria";290039;5800.78
+"Niue";258;5.16
+"Norfolk Island";14;0.28
+"North Macedonia";18691;373.82
+"Northern Mariana Islands";416;8.32
+"Norway";808293;16165.86
+"Oman";36356;727.12
+"Pakistan";558614;11172.28
+"Palau";1309;26.18
+"Panama";94512;1890.24
+"Papua New Guinea";8747;174.94
+"Paraguay";34744;694.88
+"Peru";264837;5296.74
+"Philippines";1653967;33079.34
+"Pitcairn";69;1.38
+"Poland";1142376;22847.52
+"Portugal";883660;17673.2
+"Puerto Rico";51330;1026.6
+"Qatar";92967;1859.34
+"Romania";357699;7153.98
+"Russian Federation";520309;10406.18
+"Rwanda";14019;280.38
+"Réunion";28968;579.36
+"Saint Barthélemy";5527;110.54
+"Saint Helena, Ascension and Tristan da Cunha";275;5.5
+"Saint Kitts and Nevis";22032;440.64
+"Saint Lucia";65059;1301.18
+"Saint Martin (French part)";10734;214.68
+"Saint Pierre and Miquelon";533059;10661.18
+"Saint Vincent and the Grenadines";67042;1340.84
+"Samoa";970;19.4
+"San Marino";1037;20.74
+"Sao Tome and Principe";187;3.74
+"Sark";0;0
+"Saudi Arabia";464228;9284.56
+"Senegal";46044;920.88
+"Serbia";62462;1249.24
+"Serbia and Montenegro";70170;1403.4
+"Seychelles";3307;66.14
+"Sierra Leone";3681;73.62
+"Singapore";952334;19046.68
+"Sint Maarten (Dutch part)";4192;83.84
+"Slovakia";151088;3021.76
+"Slovenia";93379;1867.58
+"Solomon Islands";975;19.5
+"Somalia";6208;124.16
+"South Africa, Republic of";807633;16152.66
+"South Georgia and the South Sandwich Islands";35;0.7
+"South Sudan";889;17.78
+"Spain";1971239;39424.78
+"Sri Lanka";122242;2444.84
+"Sudan";11643;232.86
+"Suriname";7547;150.94
+"Svalbard and Jan Mayen";58;1.16
+"Sweden";1563484;31269.68
+"Switzerland";3991811;79836.22
+"Syria";49837;996.74
+"Taiwan";2949488;58989.76
+"Tajikistan";1688;33.76
+"Tanzania";46671;933.42
+"Thailand";466568;9331.36
+"Timor-Leste";817;16.34
+"Togo";8525;170.5
+"Tokelau";56;1.12
+"Tonga";1139;22.78
+"Trinidad and Tobago";1082427;21648.54
+"Tunisia";117701;2354.02
+"Turkey";360564;7211.28
+"Turkmenistan";1230;24.6
+"Turks and Caicos Islands";36575;731.5
+"Tuvalu";560;11.2
+"Uganda";35375;707.5
+"Ukraine";273692;5473.84
+"Union of Soviet Socialist Republics";160511;3210.22
+"United Arab Emirates";524443;10488.86
+"United Kingdom";31017738;620354.76
+"United States Minor Outlying Islands";126;2.52
+"United States of America";1556649749;31132994.98
+"Uruguay";75639;1512.78
+"Uzbekistan";5716;114.32
+"Vanuatu";2212;44.24
+"Venezuela";588913;11778.26
+"Viet Nam";237794;4755.88
+"Virgin Islands, British";13682;273.64
+"Virgin Islands, United States";4331;86.62
+"Wallis and Futuna";113;2.26
+"West Bank and Gaza Strip";1245;24.9
+"Western Sahara";52;1.04
+"Yemen";10167;203.34
+"Yugoslavia";198148;3962.96
+"Zambia";16992;339.84
+"Zimbabwe";37111;742.22
+"Åland Islands";18;0.36
